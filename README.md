@@ -153,7 +153,7 @@ The app opens at **`http://localhost:8501`**
 ### 5. Login
 
 - **Patient**: Create a new patient account from the login page
-- **Admin**: Use admin credentials with access code `MDRAS-ADMIN-SS2026`
+- **Admin**: Use admin credentials with access code.
 
 ---
 
